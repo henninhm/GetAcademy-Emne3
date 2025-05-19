@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser2", "Klasser2\Klasser2.csproj", "{839983FE-DD8F-4548-A02A-99C9BA6F5180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839983FE-DD8F-4548-A02A-99C9BA6F5180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839983FE-DD8F-4548-A02A-99C9BA6F5180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839983FE-DD8F-4548-A02A-99C9BA6F5180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839983FE-DD8F-4548-A02A-99C9BA6F5180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C93D2FE-8560-421C-9A27-53D0938DA2F0}
+	EndGlobalSection
+EndGlobal
