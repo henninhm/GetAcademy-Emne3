@@ -6,6 +6,8 @@ Namespace CalculatorTest
         <TestMethod>
         Sub TestSub()
 
+            Kalkulator
+
         End Sub
     End Class
 End Namespace
